@@ -22,8 +22,7 @@ The primary motivation for this approach was to reduce training time and memory 
 ## Installation
 ### Prerequisites
 Ensure you have the following libraries installed:
-bash
-pip install pandas numpy scikit-learn librosa
+  pip install pandas numpy scikit-learn librosa
 
 ### Instructions
 1. Download the GTZAN dataset from the provided link.
