@@ -32,7 +32,7 @@ Ensure you have the following libraries installed:
 ### Running the Project
 1. Load the dataset
 2. Run the classification code
-3.. Use the predict_genre function to predict the genre of your own audio files
+3. Use the predict_genre function to predict the genre of your own audio files
 
 ## Evaluation
 The model's performance is evaluated using accuracy and a classification report that provides precision, recall, and F1-score metrics for each genre.
